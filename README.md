@@ -1,4 +1,4 @@
 # Hello-World
-The first Repositry :D 
-I am Akash Sankritya,wanted to be a full stack web developer and started exploring web for that.
-I had passed intermediate exam in 2017.
+The first Repositry !! 
+I am Akash Sankritya,wanted to be a Machine learning engineer and started exploring web for that.
+
